@@ -1,0 +1,20 @@
+[Project]
+Filename=C:\Users\haroldde\Documents\2021_ene_jun\PIC_basic\encender LED\encender LED.bas
+[Environment]
+CaretX=9
+CaretY=33
+Topline=7
+[Version]
+Enable=1
+Rollover=255
+Major=0
+Minor=0
+Release=0
+Build=2
+[Results]
+Visible=1
+Height=117
+View=2
+[Status]
+Message=Success : 32 program words used, 0 variable bytes used
+Image=0
